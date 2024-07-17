@@ -1,6 +1,6 @@
 # Modern UI/UX GPT-3
 
-![Modern UI/UX GPT-3]
+[Modern UI/UX GPT-3]
 
 
 ## Introduction
